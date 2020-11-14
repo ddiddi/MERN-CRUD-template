@@ -1,4 +1,4 @@
-gene,drug,value
+gene,drugGene,value
 TUBB3,CABAZITAXEL,117.0
 YES1,CABAZITAXEL,117.0
 AKT1,CABAZITAXEL,143.0
